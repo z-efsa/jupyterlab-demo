@@ -1,8 +1,17 @@
-# JupyterLab Demonstration
+# Zeljka Bozic - Sistemi za podrsku odlucivanju
 
-[![Build Status](https://travis-ci.org/jupyterlab/jupyterlab-demo.svg?branch=master)](https://travis-ci.org/jupyterlab/jupyterlab-demo)
+Koristen je skup podataka "Drunk Driving Laws and Traffic Deaths" o uticaju saobracajnih propisa na smrtnost u saobracajnim nesrecama na putevima saveznih americkih drzava u periodu 1982-1988. Podaci su skinuti sa https://vincentarelbundock.github.io/Rdatasets/datasets.html.
 
-[![Binder](https://beta.mybinder.org/badge.svg)](https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/master?urlpath=lab/tree/demo/Lorenz.ipynb)
+Link na podatke: https://vincentarelbundock.github.io/Rdatasets/csv/Ecdat/Fatality.csv
+Link na opis podataka: https://vincentarelbundock.github.io/Rdatasets/doc/Ecdat/Fatality.html
+
+Jupyter notebook je u fajlu `fataliby.ipynb`.
+
+Pokretanje Jupyter Notebook-a: [![Binder](https://beta.mybinder.org/badge.svg)](https://mybinder.org/v2/gh/z-efsa/jupyterlab-demo/master?urlpath=lab/tree/fatality.ipynb)
+
+----------------------------------------
+
+## JupyterLab Demonstration
 
 This repository contains some demonstrations of
 [JupyterLab](https://github.com/jupyter/jupyterlab), the next
