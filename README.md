@@ -1,7 +1,9 @@
 # Zeljka Bozic - Sistemi za podrsku odlucivanju
 
-Koristen je skup podataka "Drunk Driving Laws and Traffic Deaths" o uticaju saobracajnih propisa na smrtnost u saobracajnim nesrecama na putevima saveznih americkih drzava u periodu 1982-1988. Podaci su skinuti sa https://vincentarelbundock.github.io/Rdatasets/datasets.html.
+Koristen je skup podataka "Drunk Driving Laws and Traffic Deaths" o uticaju saobracajnih propisa na smrtnost u saobracajnim nesrecama na putevima saveznih americkih drzava u periodu 1982-1988. 
+Pomenuti podaci koristeni su za potrebe predmeta "Sistemi za podrsku odlucivanju", II ciklus studija EFSA, smijer Menadžment i informacioni sistemi 2017/18.
 
+Podaci su skinuti sa https://vincentarelbundock.github.io/Rdatasets/datasets.html.
 Link na podatke: https://vincentarelbundock.github.io/Rdatasets/csv/Ecdat/Fatality.csv
 Link na opis podataka: https://vincentarelbundock.github.io/Rdatasets/doc/Ecdat/Fatality.html
 
